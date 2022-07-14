@@ -15,9 +15,9 @@ It was built for my grade 12 Computer Science project which required the use of 
 ## Tech
 
 
-- [Django](https://www.djangoproject.com/) - a high-level Python web framework
+- [Django](https://www.djangoproject.com/)
 - [MySQL](https://www.mysql.com/)
-- [mysql-connector-python](https://pypi.org/project/mysql-connector-python/) - MySQL driver written in Python
+- [mysql-connector-python](https://pypi.org/project/mysql-connector-python/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Heroku](https://heroku.com)
 
