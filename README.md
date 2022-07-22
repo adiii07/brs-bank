@@ -18,6 +18,7 @@ It was built for my grade 12 Computer Science project which required the use of 
 - [Django](https://www.djangoproject.com/)
 - [MySQL](https://www.mysql.com/)
 - [mysql-connector-python](https://pypi.org/project/mysql-connector-python/)
+- [FreeDB](https://freedb.tech/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Heroku](https://heroku.com)
 
